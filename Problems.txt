@@ -1,0 +1,5 @@
+Current problems:
+
+Some words are not on Wiktioanry and so break the parser.
+Some charaters are not recognized in pythons charmap
+Participles have a stange webpage and currently do not parse well
